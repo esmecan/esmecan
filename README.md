@@ -16,7 +16,6 @@
 <a href="mailto:esmecan5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; 
 <br /><br />
 
-![snake gif](https://github.com/nasideyildirim/nasideyildirim/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
