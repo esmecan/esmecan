@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=A75AF7&background=CA55FF00&width=435&lines=Hey!+I'm+Esmecan;I'm+Software+Test+Automation+Engineer)](https://git.io/typing-svg)
 
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+ 
 ## 🛠 &nbsp;Tech Stack :woman_technologist:
 
 ### Languages and Tools:
